@@ -131,7 +131,7 @@ fixed | 뷰포트 | X
 <a herf="https://naver.com" 
 title="NAVER로 이동"
 target="_blank">NAVER</a>  
-___
+
 <img width="70" src = "https://heropy.blog/css/images/logo.png" 
 alt = "HEROPY">
 
@@ -142,5 +142,4 @@ alt = "HEROPY">
 ***
 
 ___
-
 
